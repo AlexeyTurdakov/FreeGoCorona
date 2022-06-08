@@ -1,0 +1,21 @@
+@media (max-width: 991.98px) {
+    [class*="__container"] {
+      max-width: 750px;
+    }
+  
+    body {
+      background-color: yellow;
+    }
+  
+    .header__button {
+      flex: 0 0 152px;
+    }
+  
+    .menu__item {
+      margin-right: 30px;
+    }
+  
+    .header__container {
+      min-height: 80px;
+    }
+  }

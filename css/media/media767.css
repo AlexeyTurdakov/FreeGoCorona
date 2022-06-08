@@ -1,0 +1,41 @@
+@media (max-width: 767.98px) {
+  [class*="__container"] {
+    max-width: none;
+  }
+
+  body {
+    background-color: green;
+  }
+
+  .header__menu {
+    display: none;
+  }
+
+  .header__container {
+    min-height: 80px;
+    justify-content: space-between;
+  }
+
+  .button {
+    width: 100px;
+    height: 30px;
+    animation: none;
+  }
+
+  .header__logo {
+    display: none;
+  }
+
+  .header__logo-mini {
+    display: block;
+  }
+
+  .header__img {
+    animation: shake 7s;
+    animation-iteration-count: infinite;
+  }
+
+  .header__img:hover {
+    animation: none;
+  }
+}
