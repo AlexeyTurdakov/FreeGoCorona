@@ -4,7 +4,7 @@
 @import url("./media/media1087.css");
 @import url("./media/media991.css");
 @import url("./media/media767.css");
-@import url("./getStartedBlock.css");
+@import url("./mainBlock/getStartedBlock.css");
 
 body {
   font-family: Rubik;
@@ -28,4 +28,13 @@ body {
   max-width: 1087px;
   margin: 0px auto;
   padding: 0px 15px;
+}
+
+/*this is block-title span color*/
+.textRed {
+  color: #ec5863;
+}
+
+.textBlue {
+  color: #5688d8;
 }
