@@ -5,6 +5,7 @@
 @import url("./media/media991.css");
 @import url("./media/media767.css");
 @import url("./mainBlock/getStartedBlock.css");
+@import url("./mainBlock/blockText.css");
 
 body {
   font-family: Rubik;
@@ -20,8 +21,8 @@ body {
 }
 
 .main {
-  flex: 1 1 auto;
-  margin-top: 80px;
+  /* flex: 1 1 auto;
+  margin-top: 80px; */
 }
 
 [class*="__container"] {
@@ -30,11 +31,4 @@ body {
   padding: 0px 15px;
 }
 
-/*this is block-title span color*/
-.textRed {
-  color: #ec5863;
-}
 
-.textBlue {
-  color: #5688d8;
-}
