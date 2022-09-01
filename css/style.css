@@ -1,11 +1,13 @@
 @import url("./normalize/normalize.css");
 @import url("./header.css");
 @import url("./button.css");
+@import url("./mainBlock/getStartedBlock.css");
+@import url("./mainBlock/blockText.css");
+@import url("./mainBlock/staySelfBlock.css");
+@import url("./mainBlock/expertsBlock.css");
 @import url("./media/media1087.css");
 @import url("./media/media991.css");
 @import url("./media/media767.css");
-@import url("./mainBlock/getStartedBlock.css");
-@import url("./mainBlock/blockText.css");
 
 body {
   font-family: Rubik;
@@ -30,5 +32,3 @@ body {
   margin: 0px auto;
   padding: 0px 15px;
 }
-
-
