@@ -3,10 +3,6 @@
     max-width: none;
   }
 
-  body {
-    background-color: green;
-  }
-
   .header__menu {
     display: none;
   }
@@ -87,7 +83,7 @@
   }
 
   .experts__statistics {
-    width: 40%;
+    width: 100%;
     flex-direction: column;
     height: 250px;
   }
@@ -104,6 +100,10 @@
     align-items: center;
   }
 
+  .experts__text_mr {
+    margin-right: 0px;
+  }
+
   .statistics-block__body {
     display: flex;
     justify-content: center;
@@ -113,7 +113,5 @@
 
   .experts__video {
     margin-top: 50px;
-    width: 40%;
-    flex: 1 0 100%;
   }
 }

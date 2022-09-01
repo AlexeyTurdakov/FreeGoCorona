@@ -2,7 +2,6 @@
   background-color: #fafbfd;
   margin-top: 50px;
   position: relative;
-  height: 517px;
   display: flex;
 }
 
@@ -50,14 +49,19 @@
 
 .experts__content {
   display: flex;
-  margin-top: 100px;
+  margin: 150px 0 50px 0;
 }
 .experts__text {
   flex: 1 0 50%;
 }
 
+.experts__text_mr {
+  margin-right: 15px;
+}
+
 .experts__video {
   flex: 1 0 50%;
+  
 }
 
 .experts__video iframe {
