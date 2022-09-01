@@ -3,10 +3,6 @@
     max-width: 750px;
   }
 
-  body {
-    background-color: yellow;
-  }
-
   .header__button {
     flex: 0 0 152px;
   }
