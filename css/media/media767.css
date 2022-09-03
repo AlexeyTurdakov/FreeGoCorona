@@ -114,4 +114,11 @@
   .experts__video {
     margin-top: 50px;
   }
+
+  /*healthcare-block*/
+
+  .healthcare-animation__item4 {
+    top: -2%;
+    right: 28%;
+  }
 }
